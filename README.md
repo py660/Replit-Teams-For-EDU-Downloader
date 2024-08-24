@@ -1,3 +1,6 @@
+# Update 3.0.0 -- Deprecation Notice
+Replit Teams for Edu is now gone, thus rendering this tool useless.
+
 # Replit-Teams-For-EDU-Downloader
 A drop-in replacement for something that Replit was supposed to make a month ago.
 
